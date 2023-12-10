@@ -1,0 +1,14 @@
+.cronometro{
+    background: linear-gradient(to right, #007bff, #ffffff); /* Degradado horizontal de azul a blanco */
+    /* Otros estilos para el div */
+    padding: 20px;
+    border-radius: 10px;
+    color: white; /* Color del texto */
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+}
